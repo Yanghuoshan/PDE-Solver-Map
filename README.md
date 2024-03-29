@@ -1,6 +1,6 @@
 # PDE SOLVER MAP
 
-</br>
+A map of numerical methods and neural operators for solving PDEs
 
 ## *Numerical Methods for PDEs*
 
@@ -22,10 +22,7 @@
 ### Julia Code
 
 - [Survey of PDE Packages](https://github.com/JuliaPDE/SurveyofPDEPackages): Including the vast majority of numerical methods
-
-</br>
-</br>
-
+  
 ## *Existing Surrogate Models (Papre & Code)*
 
 ### U-Net
@@ -94,36 +91,21 @@
 
 - [Parametric Learning of Time-Advancement Operators for Unstable Flame Evolution](https://arxiv.org/abs/2402.10238)
 
-</br>
-</br>
-
 ## *PDE bench*
 
 - [https://github.com/pdebench/PDEBench](https://github.com/pdebench/PDEBench)
 
-</br>
-</br>
-
 ## *Neural-PDE-Solver*
 
 - [A large library of existing methods](https://github.com/bitzhangcy/Neural-PDE-Solver)
-  
-</br>
-</br>
 
 ## *Library for scientific ML and physics-informed learning*
 
 - [DeepXDE](https://github.com/lululxvi/deepxde)(Code for PINN, DeepONet, MFNN)
 
-</br>
-</br>
-
 ## *AIRS*
 
 - [Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems](https://github.com/divelab/AIRS)
-
-</br>
-</br>
 
 ## *Tutorials*
 
